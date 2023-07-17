@@ -6,20 +6,7 @@
 
 }
 
- 
 
-@font-face {
-    font-family: Inter;
-    src: url(./Inter.ttf);
-
-    font-family: 'Delius Unicase', cursive;
-
-    font-family: roboto;
-    src: url(./Roboto.ttf);
-
-    font-family: dm;
-    src: url(./DM.ttf);
-}
 
 
 body{
@@ -102,7 +89,7 @@ nav ul {
 nav ul div.items a {     /*done*/
     text-decoration: none;
     color: #FFF;
-    font-family: dm;
+    font-family: 'DM Sans', sans-serif;
     font-size: 30.35px;
     font-style: normal;
     font-weight: 400;
@@ -129,7 +116,7 @@ input {    /*done*/
     border: 0px;
     background: transparent;
     color: #9F9F9F;
-    font-family: dm;
+    font-family: 'DM Sans', sans-serif;
     font-size: 20.35px;
     font-style: normal;
     font-weight: 400;
@@ -168,7 +155,7 @@ input {    /*done*/
 
 .btext {   /*done*/
     color: #6F7373;
-    font-family: dm;
+    font-family: 'DM Sans', sans-serif;
     font-size: 24.16px;
     font-style: normal;
     font-weight: 400;
@@ -227,7 +214,7 @@ input {    /*done*/
 
 .ptop {       /*done*/
     color: #FFF;
-    font-family: dm;
+    font-family: 'DM Sans', sans-serif;
     font-size: 24.166px;
     font-style: normal;
     font-weight: 700;
@@ -239,7 +226,7 @@ input {    /*done*/
 
 .pbot {     /*done*/
     color: #FFF;
-    font-family: dm;
+    font-family: 'DM Sans', sans-serif;
     font-size: 23.33px;
     font-style: normal;
     font-weight: 700;
@@ -289,7 +276,7 @@ input {    /*done*/
     justify-content: center;
     align-items: center;
     color: #000;
-    font-family: dm;
+    font-family: 'DM Sans', sans-serif;
     font-size: 29.166px;
     font-style: normal;
     font-weight: 700;
@@ -308,7 +295,7 @@ input {    /*done*/
     border-radius: 22px;
     border: 4.16px solid #FFF;
     color: #FFF;
-    font-family: dm;
+    font-family: 'DM Sans', sans-serif;
     font-size: 29.166px;
     font-style: normal;
     font-weight: 700;
@@ -326,7 +313,7 @@ input {    /*done*/
     border-radius: 22px;
     border: 4.16px solid #FFF;
     color: #FFF;
-    font-family: dm;
+    font-family: 'DM Sans', sans-serif;
     font-size: 29.166px;
     font-style: normal;
     font-weight: 700;
@@ -354,7 +341,7 @@ table {       /*done*/
 
 .que {     /*done*/
     color: #04285A;
-    font-family: roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 23.33px;
     font-style: normal;
     font-weight: 500;
@@ -365,7 +352,7 @@ table {       /*done*/
 
 .ans {      /*done*/
     color: #143565;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -375,7 +362,7 @@ table {       /*done*/
 
 .inform {
     color: #04285A;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 31.66px;
     font-style: normal;
     font-weight: 700;
@@ -412,7 +399,7 @@ ul li{
 
 #nxtext {     /*done*/
     color: #FFF;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
     font-style: normal;
     font-weight: 400;
